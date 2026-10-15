@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="560" height="104" viewBox="0 0 560 104" fill="none">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#4c6ef5"/>
+      <stop offset="1" stop-color="#364fc7"/>
+    </linearGradient>
+  </defs>
+  <rect x="4" y="4" width="96" height="96" rx="24" fill="url(#bg)"/>
+  <circle cx="52" cy="52" r="33" stroke="#ffffff" stroke-opacity="0.9" stroke-width="5"/>
+  <circle cx="52" cy="52" r="13" stroke="#ffffff" stroke-opacity="0.9" stroke-width="5"/>
+  <circle cx="52" cy="29" r="5" fill="#ffffff"/>
+  <circle cx="72" cy="40.5" r="5" fill="#ffffff"/>
+  <circle cx="72" cy="63.5" r="5" fill="#ffffff"/>
+  <circle cx="52" cy="75" r="5" fill="#ffffff"/>
+  <circle cx="32" cy="63.5" r="5" fill="#ffffff"/>
+  <circle cx="32" cy="40.5" r="5" fill="#ff6b6b"/>
+  <text x="124" y="58" font-family="Inter, Segoe UI, Helvetica Neue, Arial, sans-serif" font-size="44" font-weight="700" fill="#1f2937" letter-spacing="-0.5">SEDSCN-Trans</text>
+  <text x="126" y="84" font-family="Inter, Segoe UI, Helvetica Neue, Arial, sans-serif" font-size="15" font-weight="500" fill="#6b7280" letter-spacing="1.5">AERO-ENGINE BEARING FAULT DIAGNOSIS</text>
+</svg>
